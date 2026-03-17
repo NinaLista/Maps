@@ -8,7 +8,7 @@ Kokoelma avoimeen dataan perustuvia teemakarttoja.
 
 ## Kartat
 
-### 1. Hiisi-nimet
+### 1. Hiisi vie! Hiisi paikannimissä.
 
 Yli 3000 suomalaista hiisi-aiheista paikannimeä teemoiteltuna maastotyypin mukaan. Nimet kattavat koko Suomen sekä historiallisen Karjalan alueen. Sijaintitiedot vaihtelevat virallisesta paikkatiedosta pitäjätason arvioon — koordinaattityö on work in progress. 
 
@@ -21,9 +21,9 @@ Yli 3000 suomalaista hiisi-aiheista paikannimeä teemoiteltuna maastotyypin muka
 
 ---
 
-### 2. Muinaisia mestoja. Osa 1.
+### 2. Muinaisia mestoja kuvauksineen. Osa 1.
 
-Kartta kokoaa muinaisiin kohteisiin ja historiallisiin paikkoihin liittyviä mestoja. Ensimmäinen osa keskittyy Satakunnan alueelle.
+Kartalla muinaisröykkiöitä ja niiden sanallinen kuvaus. Satakunta. 
 
 <!-- Lisää kuvakaappaus:
 ![Muinaisia mestoja](muinaisia-mestoja-osa1/docs/karttakuva.png)
@@ -34,9 +34,9 @@ Kartta kokoaa muinaisiin kohteisiin ja historiallisiin paikkoihin liittyviä mes
 
 ---
 
-### 3. Satakunnan VARK-kohteet
+### 3. Mitä mielenkiintoista Satakunnan VARK-kohteissa?
 
-Valtakunnallisesti merkittävät arkeologiset kohteet (VARK) Satakunnan alueella kartalla. VARK-kohteet ovat Museoviraston vuosina 2018–2024 inventoimia ja valtioneuvoston 7.11.2024 vahvistamia merkittävimpiä arkeologisia kohteita manner-Suomessa — kivikautisista asuinpaikoista pronssikautisiin hautaraunioihin ja keskiaikaisiin rakenteisiin.
+Valtakunnallisesti merkittävät arkeologiset kohteet (VARK) Satakunnan alueella kartalla. Kiinnostavat nostot kohteista!
 
 <!-- Lisää kuvakaappaus:
 ![Satakunnan VARK-kohteet](satakunnan-vark-kohteet/docs/karttakuva.png)
@@ -49,8 +49,10 @@ Valtakunnallisesti merkittävät arkeologiset kohteet (VARK) Satakunnan alueella
 
 ## Tekijä ja lisenssi
 
-Tekijä: **Paikkavaraus**  
+Tekijä: Nina Mäki-Kihniä
 Lisenssi: [CC BY 4.0](LICENSE)  
 
-Aineistojen koosteet ja muokkaukset: Paikkavaraus, CC BY 4.0.  
+Aineistojen koosteet ja muokkaukset: Nina Mäki-Kihniä, CC BY 4.0.  
 Alkuperäiset lähteet mainittu kunkin kartan dokumentaatiossa.
+AI:n mahdollinen käyttötapa työvaiheissa on kuvattu kunkin kartan dokumentaatiossa.
+
