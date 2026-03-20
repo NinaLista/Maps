@@ -24,7 +24,7 @@ Yli 3000 suomalaista hiisi-aiheista paikannimeä teemoiteltuna maastotyypin muka
 Muinaisröykkiöitä kivi- ja pronssikaudelta ja niiden sanallinen kuvaus. Satakunta. 
 
 **[→ Avaa kartta](https://www.google.com/maps/d/viewer?mid=18OPoHMsIZYx1xNXnfnKsk5AgQzB-GO4)**  
-[Dokumentaatio](muinaisia-mestoja-osa1/README.md)
+[Dokumentaatio](Muinaisiamestoja-1-workflow/README.md)
 
 ![Muinaisia mestoja](images/muinaismestat1.png)
 
