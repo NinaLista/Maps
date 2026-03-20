@@ -13,7 +13,7 @@ Kokoelma avoimeen dataan perustuvia teemakarttoja.
 Yli 3000 suomalaista hiisi-aiheista paikannimeä teemoiteltuna maastotyypin mukaan. Nimet kattavat koko Suomen sekä historiallisen Karjalan alueen. Sijaintitiedot vaihtelevat virallisesta paikkatiedosta pitäjätason arvioon — koordinaattityö on work in progress. 
 
 **[→ Avaa kartta Google MyMaps](https://www.google.com/maps/d/viewer?mid=1uS2h4ZhkRTX3bvDv-s5OkpvR-TzxSig&ll=61.23503417659103%2C25.710042486408753&z=7)**  
-[Dokumentaatio](hiisi-nimet/README.md)
+[Dokumentaatio](doc/hiisi-readme.md)
 
 ![Hiisi vie kartta](images/hiisi.png)
 
@@ -43,9 +43,6 @@ Kiinnostavat nostot ja kuvaukset kohteista!
 ---
 
 ## Tekijä ja lisenssi
-
-Tekijä: Nina Mäki-Kihniä
-Lisenssi: [CC BY 4.0](LICENSE)  
 
 Aineistojen koosteet ja muokkaukset: Nina Mäki-Kihniä, CC BY 4.0.  
 Alkuperäiset lähteet mainittu kunkin kartan dokumentaatiossa.
