@@ -26,7 +26,7 @@ Muinaisröykkiöitä kivi- ja pronssikaudelta ja niiden sanallinen kuvaus. Satak
 **[→ Avaa kartta](https://www.google.com/maps/d/viewer?mid=18OPoHMsIZYx1xNXnfnKsk5AgQzB-GO4)**  
 [Dokumentaatio](muinaisia-mestoja-osa1/README.md)
 
-![Muinaisia mestoja](images/muinaisetmestat1.png)
+![Muinaisia mestoja](images/muinaismestat1.png)
 
 ---
 
