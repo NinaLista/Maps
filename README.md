@@ -21,7 +21,7 @@ Yli 3000 suomalaista hiisi-aiheista paikannimeä teemoiteltuna maastotyypin muka
 
 ### 2. Muinaisia mestoja kuvauksineen. Osa 1.
 
-Kartalla muinaisröykkiöitä ja niiden sanallinen kuvaus. Satakunta. 
+Muinaisröykkiöitä kivi- ja pronssikaudelta ja niiden sanallinen kuvaus. Satakunta. 
 
 **[→ Avaa kartta](https://www.google.com/maps/d/viewer?mid=18OPoHMsIZYx1xNXnfnKsk5AgQzB-GO4)**  
 [Dokumentaatio](muinaisia-mestoja-osa1/README.md)
@@ -32,7 +32,8 @@ Kartalla muinaisröykkiöitä ja niiden sanallinen kuvaus. Satakunta.
 
 ### 3. Mitä mielenkiintoista Satakunnan VARK-kohteissa?
 
-Valtakunnallisesti merkittävät arkeologiset kohteet (VARK) Satakunnan alueella kartalla. Kiinnostavat nostot kohteista!
+Valtakunnallisesti merkittävät arkeologiset kohteet (VARK) Satakunnan alueella kartalla. 
+Kiinnostavat nostot ja kuvaukset kohteista!
 
 **[→ Avaa kartta](https://www.google.com/maps/d/viewer?mid=1J2juMMWjWVPPK0vLmw-kmGonwWZR-oI)**  
 [Dokumentaatio](satakunnan-vark-kohteet/README.md)
