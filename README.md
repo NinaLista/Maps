@@ -3,6 +3,12 @@
 # Teemakarttoja
 
 Kokoelma avoimeen dataan perustuvia teemakarttoja. 
+Tarkoituksena on ollut testata erilaisia datankäsittelytapoja. 
+
+# Tekijä ja lisenssi
+
+Aineistojen koosteet ja muokkaukset: Nina Mäki-Kihniä, CC BY 4.0.
+Alkuperäiset lähteet mainittu kunkin kartan dokumentaatiossa. AI:n mahdollinen käyttötapa työvaiheissa on kuvattu kunkin kartan dokumentaatiossa.
 
 ---
 
