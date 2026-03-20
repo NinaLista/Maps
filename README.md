@@ -13,7 +13,7 @@ Kokoelma avoimeen dataan perustuvia teemakarttoja.
 Yli 3000 suomalaista hiisi-aiheista paikannimeä teemoiteltuna maastotyypin mukaan. Nimet kattavat koko Suomen sekä historiallisen Karjalan alueen. Sijaintitiedot vaihtelevat virallisesta paikkatiedosta pitäjätason arvioon — koordinaattityö on work in progress. 
 
 **[→ Avaa kartta Google MyMaps](https://www.google.com/maps/d/viewer?mid=1uS2h4ZhkRTX3bvDv-s5OkpvR-TzxSig&ll=61.23503417659103%2C25.710042486408753&z=7)**  
-[Dokumentaatio](doc/hiisi-readme.md)
+[Dokumentaatio](docs/hiisi-readme.md)
 
 ![Hiisi vie kartta](images/hiisi.png)
 
@@ -24,7 +24,7 @@ Yli 3000 suomalaista hiisi-aiheista paikannimeä teemoiteltuna maastotyypin muka
 Muinaisröykkiöitä kivi- ja pronssikaudelta ja niiden sanallinen kuvaus. Satakunta. 
 
 **[→ Avaa kartta](https://www.google.com/maps/d/viewer?mid=18OPoHMsIZYx1xNXnfnKsk5AgQzB-GO4)**  
-[Dokumentaatio](Muinaisiamestoja-1-workflow/README.md)
+[Dokumentaatio](docs/muinaisiamestoja-1-workflow.md)
 
 ![Muinaisia mestoja](images/muinaismestat1.png)
 
